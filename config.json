@@ -1,0 +1,15 @@
+{
+  "clientId": "Bot id",
+  "token": "token bot",
+
+  "parentOpened": "Category ID where tickets appear",
+  "Category1": "Paid",
+  "Category2": "Free",
+  "Category3": "Error",
+  "Category4": "Others",
+
+  "roleSupport": "ID of the support role", 
+  
+  "logsTicket": "log channel ID",
+  "ticketChannel": "ID of the channel where the 'Open tickets' message will appear"
+}
