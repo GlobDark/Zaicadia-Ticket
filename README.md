@@ -27,7 +27,7 @@
 }
 ```
 
-* (tip) there are several support roles on your server in the "roleSupport" section use `[]` ` example: "roleSupport": ["ID 1", "ID 2", ID3]`
+* (tip) there are several support roles on your server in the "roleSupport" section use `[]` ` example: "roleSupport": ["ID 1", "ID 2", "ID3"]`
 
 # info
 
