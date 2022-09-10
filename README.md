@@ -31,7 +31,7 @@
 
 # info
 
-* Bot used by [Zaicadia Hosting](https://zaicadia-hosting.gq)
+* Bot used by [Zaicadia Hosting](https://zaicadiahost.xyz)
 * Bot uses V13 of discord.js
 
 # Zaicadia Hosting
